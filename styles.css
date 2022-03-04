@@ -1,8 +1,8 @@
 :root {
     --main-bg-color: #009d63;
     --main-text-color: #009d63;
-    --second-text-color: #bbbec5;
-    --second-bg-color: #c1efde;
+    --second-text-color: #0cb430;
+    --second-bg-color: #1ceea1;
   }
   
   .primary-text {
@@ -194,6 +194,24 @@ h1 {
   left: 7cm;
   width: 280px;
 }
+
+
+.team-button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+  }
+  .week-buttons{
+    background-color: #4CAF50; /* Green */
+    border: none;
+  }
+  
 
 /* The popup form - hidden by default */
 .form-popup {
